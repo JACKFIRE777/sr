@@ -16,6 +16,15 @@
         "短剧",
         "纪录片"
       ]
+    },
+    {
+      "key": "量子资源",
+      "name": "量子资源",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     }
   ],
   "lives": [
